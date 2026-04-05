@@ -1,0 +1,23 @@
+echo "# gitminksole2" >> README.md - to create read me file
+git init  -  to intialize
+git add README.md  - working directory to staging
+git commit -m "first commit" - statging to local repo
+git branch -M main  - branch will ne created
+git remote add origin https://github.com/chinmayd1/gitminksole2.git - local and remote configuration
+git push -u origin main - local to remote code
+
+
+git status - show which file is being tracked
+git add .
+git commit -m "script3"
+git push
+git diff script4.js
+git checkout HEAD file  --> will make my working same as last commit
+
+
+git status - show which file is being tracked
+git add .
+git commit -m "script3"
+git push
+git diff script4.js
+git checkout HEAD file  --> will make my working same as last commit
